@@ -1,5 +1,8 @@
 # Moodle Imitation Website School Project
 (The code I wrote is all here but the database at NJIT for this project has expired so the login does not work. Im in the process of trying to fix it or bypass the login screen.) 2/7/2015
+-----------------------------------------------------------------------------------------------------------------------------
+
+
 
 visit here : https://web.njit.edu/~dp257/NewMoodle/Front/login.php
 
